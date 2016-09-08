@@ -1,0 +1,6 @@
+[submodule "external/GSL"]
+	path = external/GSL
+	url = https://github.com/reBass/GSL
+[submodule "tests/external/kiss_fft"]
+	path = tests/external/kiss_fft
+	url = https://github.com/reBass/kiss_fft
